@@ -41,9 +41,9 @@ The tools used are
 ---
 In the initial phase of the Data Cleaning and preparations, we perform the following actions;
 
-  1. Data loading and Inspection
-  2. Handling missing variables
-  3. Data Cleaning and formatting
+    1. Data loading and Inspection
+    2. Handling missing variables
+    3. Data Cleaning and formatting
 
 ### Expploratory Data Analysis
 ---
