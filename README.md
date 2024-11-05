@@ -40,6 +40,7 @@ The tools used are
 ### Data Cleaning and Preparations
 ---
 In the initial phase of the Data Cleaning and preparations, we perform the following actions;
+
     1. Data loading and Inspection
     2. Handling missing variables
     3. Data Cleaning and formatting
