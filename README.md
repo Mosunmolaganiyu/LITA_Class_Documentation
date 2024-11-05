@@ -48,6 +48,7 @@ In the initial phase of the Data Cleaning and preparations, we perform the follo
 ### Expploratory Data Analysis
 ---
 This involved the exploring of the Data to answer some questions about the Data such as;
+
     - What is the overall sales trend
     - Which product are top sellers
     - What are the products on peak sales
